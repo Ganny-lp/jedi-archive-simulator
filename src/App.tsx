@@ -200,7 +200,7 @@ export const JediArchiveSimulator = () => {
             <h2 className="text-xl text-green-300 font-bold mb-2">Planeta Oculto Detectado</h2>
             <div className="mb-4 rounded-lg overflow-hidden border border-green-700">
               <video controls preload="metadata" className="w-full max-h-52 bg-black" poster="./images/yoda-poster.jpg">
-                <source src="./images/yoda.mp4" type="video/mp4" />
+                <source src="./yoda.mp4" type="video/mp4" />
                 Seu navegador não suporta vídeo HTML5.
               </video>
             </div>
