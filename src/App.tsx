@@ -474,5 +474,7 @@ export const JediArchiveSimulator = () => {
           </div>
         </div>
       </div>
+
   );
+
 };
