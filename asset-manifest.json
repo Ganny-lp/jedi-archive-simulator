@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/jedi-archive-simulator/static/css/main.c17d44e8.css",
-    "main.js": "/jedi-archive-simulator/static/js/main.349e4db6.js",
+    "main.js": "/jedi-archive-simulator/static/js/main.d18e4347.js",
     "static/js/453.ddff520e.chunk.js": "/jedi-archive-simulator/static/js/453.ddff520e.chunk.js",
     "index.html": "/jedi-archive-simulator/index.html",
     "main.c17d44e8.css.map": "/jedi-archive-simulator/static/css/main.c17d44e8.css.map",
-    "main.349e4db6.js.map": "/jedi-archive-simulator/static/js/main.349e4db6.js.map",
+    "main.d18e4347.js.map": "/jedi-archive-simulator/static/js/main.d18e4347.js.map",
     "453.ddff520e.chunk.js.map": "/jedi-archive-simulator/static/js/453.ddff520e.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.c17d44e8.css",
-    "static/js/main.349e4db6.js"
+    "static/js/main.d18e4347.js"
   ]
 }
